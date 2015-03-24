@@ -1,7 +1,5 @@
-awsjs
-=====
-
- AWS EC2 Jumpstart App
+# awsjs
+## AWS EC2 Jumpstart App
 
 Lets say you are an AWS Primary Administrator for a large company.
 Lets say that AWS has just started taking off within your company.  
